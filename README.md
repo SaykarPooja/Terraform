@@ -44,7 +44,7 @@ iii.terraform validate
 
 iv.terraform destroy --auto-approve
 
-In above all step we are exposing our secret and access keys so in order to avoid that -
+**In above all step we are exposing our secret and access keys so in order to avoid that -**
 
 1.Download AWS CLI for Windows:
 👉 https://awscli.amazonaws.com/AWSCLIV2.msi

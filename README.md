@@ -68,4 +68,4 @@ Default region (e.g., ap-south-1)
 
 Output format (json)
 
-3now without secret key and acces key we can directly run our .tf files in vs code 
+3. Now without secret key and acces key we can directly run our .tf files in vs code 

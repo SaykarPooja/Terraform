@@ -6,11 +6,12 @@ Terraform is an Infrastructure-as-Code tool that automates provisioning, manages
 
 
 
-irt is mainly used for reusablity and security
-=================================================================================================================================================================================================
-#Configuration
+it is mainly used for reusablity and security
 
-Install and Configure Terraform
+=================================================================================================================================================================================================
+# Install and Configure Terraform
+
+
 
 1.Download Terraform from the official website:
 👉 https://developer.hashicorp.com/terraform/downloads

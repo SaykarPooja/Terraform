@@ -1,5 +1,5 @@
 variable "instance_image"{
-    type = list
+    type = string
     default = ["ami-0f5ee92e2d63afc18"]
 
 }

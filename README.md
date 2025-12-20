@@ -59,7 +59,6 @@ aws --version
 aws configure
 
 Enter:
-
 AWS Access Key ID
 
 AWS Secret Access Key

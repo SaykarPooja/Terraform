@@ -5,7 +5,7 @@ AmazonS3FullAccess
 AmazonVPCFullAccess
 ElasticLoadBalancingFullAccess
 
-2.commands:
+2.Commands:
 
 Terraform init   //Initializes the Terraform working directory, downloads required providers, and sets up the backend.
 Terraform validate  //Validates the Terraform configuration files for syntax and logical errors without creating any resources.

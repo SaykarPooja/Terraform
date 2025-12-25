@@ -7,10 +7,10 @@ ElasticLoadBalancingFullAccess
 
 2.commands:
 
-Terraform init
-Terraform validate
-Terraform plan
-Terraform apply
+Terraform init   //Initializes the Terraform working directory, downloads required providers, and sets up the backend.
+Terraform validate  //Validates the Terraform configuration files for syntax and logical errors without creating any resources.
+Terraform plan   //Creates an execution plan and shows what resources Terraform will create, update, or delete before applying changes.
+Terraform apply  //Applies the planned changes and provisions the infrastructure on AWS after user confirmation.
 
 
 3. Diagram:

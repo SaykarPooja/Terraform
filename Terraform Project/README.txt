@@ -5,9 +5,19 @@ AmazonS3FullAccess
 AmazonVPCFullAccess
 ElasticLoadBalancingFullAccess
 
+2.commands:
+
+Terraform init
+Terraform validate
+Terraform plan
+Terraform apply
 
 
-2.OUTPUT:
+3. Diagram:
+https://chatgpt.com/backend-api/estuary/content?id=file_00000000404471faa0c7ccb90bdec2c0&ts=490741&p=fs&cid=1&sig=b79a9f2d9b8cc76261481d7af332e2704516af423e39f43e8d26ae44579c953a&v=0
+
+
+4. OUTPUT:
 
 PS E:\Terraform> terraform apply -auto-approve
 

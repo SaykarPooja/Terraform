@@ -1,4 +1,13 @@
-OUTPUT:
+1.IAM permissions:
+
+AmazonEC2FullAccess
+AmazonS3FullAccess
+AmazonVPCFullAccess
+ElasticLoadBalancingFullAccess
+
+
+
+2.OUTPUT:
 
 PS E:\Terraform> terraform apply -auto-approve
 

@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_instance" "test_ec2" {
-    count = 3
+    count = 3  //it will create 3 EC@ intsances with this command
   ami           = var.instance_image   # Amazon Linux 2 (Mumbai)
   instance_type = "t2.micro"
 

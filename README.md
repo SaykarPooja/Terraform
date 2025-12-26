@@ -8,7 +8,7 @@ Terraform is an Infrastructure-as-Code tool that automates provisioning, manages
 
 it is mainly used for reusablity and security
 
-====================================================================================
+==================================================================================
 # Install and Configure Terraform
 
 
